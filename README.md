@@ -45,3 +45,18 @@ Shows a list of all saved stashes.
 
 # git stash apply
 Applies a saved stash to your working directory without removing it from the stash list.
+
+# git remote add
+Adds a remote repository to your project.
+
+# git remote remove
+Removes a remote repository from your project.
+
+# git push
+Uploads local commits to a remote repository.
+
+# git pull
+Fetches and merges changes from a remote repository.
+
+# git fetch
+Fetches changes from a remote repository without merging them.
