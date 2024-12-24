@@ -88,3 +88,5 @@ Creates a tag to mark a specific commit.
 # git push origin <tag>
 Uploads a specific tag to a remote repository.
 
+# git cherry-pick
+Applies changes from a specific commit to the current branch.
