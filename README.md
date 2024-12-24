@@ -111,3 +111,9 @@ Cleans up unnecessary files and optimizes the local repository.
 
 # git fsck
 Verifies the integrity and validity of the Git repository.
+
+# git bisect
+Finds the commit that introduced a bug by performing a binary search through commit history.
+
+# git blame
+Shows who made changes to each line in a file, along with the commit details.
