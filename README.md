@@ -76,5 +76,11 @@ Moves the HEAD to a previous commit and discards all changes.
 # git restore
 Restores specific files to a previous state (alternative to `git checkout` for restoring files).
 
+# git rebase
+Moves or combines commits to a new base branch, updating history.
+
+# git rebase -i
+Allows you to edit, reorder, squash, or drop commits interactively during a rebase.
+
 
 
