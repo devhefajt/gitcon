@@ -99,3 +99,15 @@ Sets user information, preferences, or repository-specific settings (e.g., usern
 
 # git diff
 Shows differences between changes in the working directory, staging area, or commits.
+
+# git filter-branch
+Rewrites commit history to modify or remove data in the repository.
+
+# git filter-repo
+A faster and safer tool to rewrite Git history (recommended over `git filter-branch`).
+
+# git gc
+Cleans up unnecessary files and optimizes the local repository.
+
+# git fsck
+Verifies the integrity and validity of the Git repository.
