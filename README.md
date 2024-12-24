@@ -82,5 +82,9 @@ Moves or combines commits to a new base branch, updating history.
 # git rebase -i
 Allows you to edit, reorder, squash, or drop commits interactively during a rebase.
 
+# git tag
+Creates a tag to mark a specific commit.
 
+# git push origin <tag>
+Uploads a specific tag to a remote repository.
 
