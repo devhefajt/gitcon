@@ -1,4 +1,4 @@
-# gitcon
+# git
 version control system
 
 # git init
@@ -60,3 +60,21 @@ Fetches and merges changes from a remote repository.
 
 # git fetch
 Fetches changes from a remote repository without merging them.
+
+# git revert
+Creates a new commit that undoes changes from a specific commit.
+
+# git reset --soft
+Moves the HEAD to a previous commit but keeps changes staged.
+
+# git reset --mixed
+Moves the HEAD to a previous commit and unstages changes (default).
+
+# git reset --hard
+Moves the HEAD to a previous commit and discards all changes.
+
+# git restore
+Restores specific files to a previous state (alternative to `git checkout` for restoring files).
+
+
+
