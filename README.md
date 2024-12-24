@@ -117,3 +117,7 @@ Finds the commit that introduced a bug by performing a binary search through com
 
 # git blame
 Shows who made changes to each line in a file, along with the commit details.
+
+# git reflog
+Shows a log of all references (e.g., HEAD changes), including commits, checkouts, and resets.
+
