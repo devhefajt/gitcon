@@ -90,3 +90,12 @@ Uploads a specific tag to a remote repository.
 
 # git cherry-pick
 Applies changes from a specific commit to the current branch.
+
+# git commit --amend
+Edits the most recent commit (message or changes) without creating a new one.
+
+# git config
+Sets user information, preferences, or repository-specific settings (e.g., username, email).
+
+# git diff
+Shows differences between changes in the working directory, staging area, or commits.
